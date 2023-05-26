@@ -1,0 +1,36 @@
+.timer-buffer-digit {
+    font-size: 4rem;
+    color: grey;
+}
+
+.timer-buffer-sep {
+    font-size: 4rem;
+    color: grey;
+}
+
+.timer-buffer-subscript {
+    font-size: 2rem;
+    color: grey;
+    text-align: center;
+}
+
+.active {
+    color: black;
+}
+
+.with-cursor {
+    border-right: 1px solid;
+}
+
+
+
+.container {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+.timer-buffer {
+    border-color: red;
+}

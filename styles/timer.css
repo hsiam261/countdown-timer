@@ -1,0 +1,15 @@
+.timer-digit {
+    font-size: 4rem;
+    color: black;
+}
+
+.timer-sep {
+    font-size: 4rem;
+    color: black;
+}
+
+.timer-subscript {
+    font-size: 2rem;
+    color: black;
+    text-align: center;
+}
